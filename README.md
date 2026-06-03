@@ -51,11 +51,6 @@ Finance-Dashboard/
 - Node.js & npm installed  
 - MongoDB Atlas setup  
 
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/Niveditasri/Finance-Dashboard.git
-cd Finance-Dashboard
-```
 
 ### **2️⃣ Backend Setup**  
 ```bash
@@ -94,7 +89,4 @@ vercel deploy
 ## 📌 Contribution  
 Contributions are welcome! Feel free to fork the repo and submit pull requests.  
 
-## 📞 Contact  
-For queries, feel free to reach out:  
-📧 **Email:** [niveditasrivastava0720@gmail.com]  
-🔗 **LinkedIn:** [linkedin.com/in/niveditasrivastava](https://www.linkedin.com/in/niveditasri/)
+
